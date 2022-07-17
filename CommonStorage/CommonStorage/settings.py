@@ -129,15 +129,15 @@ USE_L10N = True
 USE_TZ = True
 
 #Replace Values with AWS Credentials
-AWS_ACCESS_KEY_ID = 'AKIATJHXKZ6R3M7C2AKP'
-AWS_SECRET_ACCESS_KEY = 'FNCj7/rW1jQZrEWhT+2M8GDyEXSr9hwt6LAMkGbD'
-AWS_STORAGE_BUCKET_NAME = 'progetc-fi-static'
+AWS_ACCESS_KEY_ID = ''
+AWS_SECRET_ACCESS_KEY = ''
+AWS_STORAGE_BUCKET_NAME = ''
 # AWS_S3_CUSTOM_DOMAIN = '%s.s3.amazonaws.com' % AWS_STORAGE_BUCKET_NAME
 
 
 #Replace Values with Microsoft Azure Credentials
-AZURE_ACCOUNT_NAME = "" # Acount name
-AZURE_ACCOUNT_KEY = "" # Acount Key
+AZURE_ACCOUNT_NAME = "" # Account name
+AZURE_ACCOUNT_KEY = "" # Account Key
 AZURE_URL_EXPIRATION_SECS = None
 
 #Replace Values with Google Cloud Credentials
